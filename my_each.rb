@@ -7,4 +7,4 @@ def my_each(words) # put argument(s) here
   end
 end
 
-my_each(words) {|word| puts word}
+# my_each(words) {|word| puts word}
