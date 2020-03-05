@@ -7,5 +7,3 @@ def my_each(words) # put argument(s) here
   end
   words
 end
-
-# my_each(words) {|word|word}
